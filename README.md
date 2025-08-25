@@ -1,0 +1,1 @@
+An interactive Stone-Paper-Scissors game developed using HTML, CSS, and JavaScript. Includes a player vs computer mode with random computer move generation and score tracking. Designed with a responsive layout for smooth gameplay across desktop and mobile.
